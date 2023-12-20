@@ -1,0 +1,11 @@
+{
+  "name": "glg",
+  "module": "index.js",
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "scripts": {
+    "start": "bun run index.js"
+  },
+  "type": "module"
+}
